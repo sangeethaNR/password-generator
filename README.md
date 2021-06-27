@@ -20,11 +20,12 @@ The criteria that the password is able to meet are:
 
  The application will not accept below 8 characters or above 128 characters and string.
 
- click on this link to see the page.
+ click on this [link] (https://sangeethanr.github.io/password-generator/Develop/index.html)) to see the page.
 
 The landing page looks like below
 
- ![landing Page image](assets/images/landingPage.png)
+ ![landing Page image](/Assets/images/landingPage.png)
+ 
 
 
   ## Technologies Used
@@ -45,3 +46,35 @@ The landing page looks like below
 
  When  the user clicks the generate button the string in which the password is appended wil be shown in the text area.
 
+## Installation
+On GitHub, navigate to the main page of the repository.
+  To clone the repository using HTTPS, under "Clone with HTTPS", click . To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click Use SSH, then click clipboard image . To clone a repository using GitHub CLI, click Use GitHub CLI, then click clipboard image .
+
+  open Git Bash
+  
+  Change the current working directory to the location where you want the cloned directory.
+  
+  Type git clone, and then paste the SSH  you copied earlier.
+
+$ git clone git@github.com:sangeethaNR/password-generator.git
+Press Enter to create your local clone.
+
+$ git clone git@github.com:sangeethaNR/password-generator.git
+> Cloning into `Spoon-Knife`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+
+ You installed the project to your local!!!
+ 
+  Link to the deployed application https://github.com/sangeethaNR/password-generator
+  
+  Landing Page  https://sangeethanr.github.io/password-generator/Develop/index.html
+
+  
+  ## Credits
+  github.com
+  google.com
+  w3Schools.com
+  Scratch.mit.edu

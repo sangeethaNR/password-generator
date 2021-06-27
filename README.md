@@ -20,7 +20,7 @@ The criteria that the password is able to meet are:
 
  The application will not accept below 8 characters or above 128 characters and string.
 
- click on this [link] (https://sangeethanr.github.io/password-generator/Develop/index.html)) to see the page.
+ click on this [link] (https://sangeethanr.github.io/password-generator/Develop/index.html) to see the page.
 
 The landing page looks like below
 
